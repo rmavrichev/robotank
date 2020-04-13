@@ -35,8 +35,8 @@ avoid_backward = False
 pos_actual = 75
 dist_cm = 50
 # home wifi credentials
-essid = 'anutik'
-password = 'klj909hh_01'
+essid = 'home'
+password = '12345678'
 
 # callback function for start/stop button
 def callback(p):
